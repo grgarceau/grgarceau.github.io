@@ -28,7 +28,7 @@ Here are some MarkDown examples:
 - Second item
 - Third item
 
-`code`
+`highlighted text`
 ---
 [Hyperlink](https://grgarceau.github.io/page1.html)
 
