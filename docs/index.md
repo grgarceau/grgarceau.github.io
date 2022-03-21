@@ -1,4 +1,5 @@
 ---
-layout: post
+layout: page
 title: GitHub Pages Demo
+---
 # DevRel Docs
