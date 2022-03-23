@@ -7,6 +7,6 @@ title: GitHub Pages Demo
 
 [samplePDFDoc PDF](https://grgarceau.github.io/samplePDFDoc.pdf)
 
-[sampleWordDoc DOCX](https://grgarceau.github.io/samplePDFDoc.docx)
+[sampleWordDoc DOCX](https://grgarceau.github.io/sampleWordDoc.docx)
 
-[samplePPTDoc PPTX](https://grgarceau.github.io/samplePDFDoc.pptx)
+[samplePPTDoc PPTX](https://grgarceau.github.io/samplePPTDoc.pptx)
