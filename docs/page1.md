@@ -30,5 +30,5 @@ Here are some MarkDown examples:
 
 `highlighted text`
 ---
-[Hyperlink](https://grgarceau.github.io/page1.html)
+[Hyperlink](https://grgarceau.github.io/samplePDFDoc.pdf)
 
