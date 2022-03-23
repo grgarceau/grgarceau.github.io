@@ -9,4 +9,4 @@ title: GitHub Pages Demo
 
 [sampleWordDoc DOCX](https://grgarceau.github.io/sampleWordDoc.docx)
 
-[samplePPTDoc PPTX](https://grgarceau.github.io/samplePPTDoc.pptx)
+[samplePPTDoc PPTX](https://grgarceau.github.io/SamplePPTDoc.pptx)
